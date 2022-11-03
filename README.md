@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+there+my+name+is+Serhii.+I'm+independent+Pos%2FPoW+validator.)](https://git.io/typing-svg)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="100"/>
