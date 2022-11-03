@@ -19,7 +19,7 @@ For monitoring, I use Grafana + Prometeus Monitoring - 24/7/365, which generally
 <div align="center" dir="auto">  
 <a href="#"><img src="https://github.com/Digiser2/Digiser2/blob/4e10e0843f00c19aceec197bb93692c364716445/img/Sui.png" title="Sui" width="80" height="auto" style="max-width: 100%;"></a>   
 <a href="#"><img src="https://github.com/Digiser2/Digiser2/blob/4e10e0843f00c19aceec197bb93692c364716445/img/Islamic%20Coin.png" title="Islamic Coin" width="80" height="auto" style="max-width: 100%;"></a>     
-<a href="#"><img src="hthttps://github.com/Digiser2/Digiser2/blob/4e10e0843f00c19aceec197bb93692c364716445/img/Obol.png" title="Obol" width="80" height="auto" style="max-width: 100%;"></a>   
+<a href="#"><img src="https://github.com/Digiser2/Digiser2/blob/588041d962ebe59913692ebe9ff860ba50dcb055/img/Obol.png" title="Obol" width="80" height="auto" style="max-width: 100%;"></a>   
 <a href="#"><img src="https://github.com/Digiser2/Digiser2/blob/4e10e0843f00c19aceec197bb93692c364716445/img/Stride.png" title="Stride" width="80" height="auto" style="max-width: 100%;"></a>   
 <a href="#"><img src="https://github.com/Digiser2/Digiser2/blob/4e10e0843f00c19aceec197bb93692c364716445/img/Rebus.png" title="Rebus" width="80" height="auto" style="max-width: 100%;"></a>   
 <a href="#"><img src="https://github.com/Digiser2/Digiser2/blob/4e10e0843f00c19aceec197bb93692c364716445/img/Teritori.png" title="Teritori" width="80" height="auto" style="max-width: 100%;"></a>   
