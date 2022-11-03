@@ -1,8 +1,6 @@
-<div id="header" align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&height=100&lines=Hi+%2C+there.My+name+is+Serhii.+I'm+indent+Pos%2FPoW+validator.)](https://git.io/typing-svg)
 
-  <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="100"/>
-</div>
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
