@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&height=100&lines=Hi+%2C+there.My+name+is+Serhii.+I'm+indent+Pos%2FPoW+validator.)](https://github.com/Digiser2/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&height=100&lines=Hi+%2C+there.My+name+is+Serhii.+I'm+independent+Pos%2FPoW+validator.)](https://github.com/Digiser2/)
 
 <div id="badges">
   <a href="your-linkedin-URL">
