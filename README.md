@@ -24,8 +24,8 @@ For monitoring, I use Grafana + Prometeus Monitoring - 24/7/365, which generally
 <a href="#"><img src="https://github.com/Digiser2/Digiser2/blob/4e10e0843f00c19aceec197bb93692c364716445/img/Rebus.png" title="Rebus" width="80" height="auto" style="max-width: 100%;"></a>   
 <a href="#"><img src="https://github.com/Digiser2/Digiser2/blob/4e10e0843f00c19aceec197bb93692c364716445/img/Teritori.png" title="Teritori" width="80" height="auto" style="max-width: 100%;"></a>   
 <a href="#"><img src="https://github.com/Digiser2/Digiser2/blob/4e10e0843f00c19aceec197bb93692c364716445/img/Forta.png" title="Forta" width="80" height="auto" style="max-width: 100%;"></a>   
-<a href="#"><img src="hhttps://github.com/Digiser2/Digiser2/blob/4e10e0843f00c19aceec197bb93692c364716445/img/Bundlr.png" title="Bundlr" width="80" height="auto" style="max-width: 100%;"></a>   
-<a href="#"><img src="hhttps://github.com/Digiser2/Digiser2/blob/4e10e0843f00c19aceec197bb93692c364716445/img/DWS.png" title="DWS" width="80" height="auto" style="max-width: 100%;"></a>   
+<a href="#"><img src="https://github.com/Digiser2/Digiser2/blob/eeddc012db645ea644bb58e101d9bee223bf9b61/img/Bundlr.png" title="Bundlr" width="80" height="auto" style="max-width: 100%;"></a>   
+<a href="#"><img src="https://github.com/Digiser2/Digiser2/blob/4e10e0843f00c19aceec197bb93692c364716445/img/DWS.png" title="DWS" width="80" height="auto" style="max-width: 100%;"></a>   
 <a href="#"><img src="https://github.com/Digiser2/Digiser2/blob/4e10e0843f00c19aceec197bb93692c364716445/img/DeFund.png" title="DeFund" width="80" height="auto" style="max-width: 100%;"></a>   
 <a href="#"><img src="https://github.com/Digiser2/Digiser2/blob/4e10e0843f00c19aceec197bb93692c364716445/img/Ironfish.png" title="IronFish" width="80" height="auto" style="max-width: 100%;"></a>   
 <a href="#"><img src="https://github.com/Digiser2/Digiser2/blob/4e10e0843f00c19aceec197bb93692c364716445/img/Penumbra.png" title="Penumbra" width="80" height="auto" style="max-width: 100%;"></a>   
