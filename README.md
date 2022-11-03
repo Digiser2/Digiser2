@@ -39,6 +39,15 @@ For monitoring, I use Grafana + Prometeus Monitoring - 24/7/365, which generally
 <a href="#"><img src="https://github.com/hivefive-space/hivefive-space/raw/2013558e77637700f16708ba73f456f54ce2f5d8/img/Masa.png" title="Masa" width="80" height="auto" style="max-width: 100%;"></a>   
 <a href="#"><img src="https://github.com/hivefive-space/hivefive-space/raw/b03d4395bd88cd72bc681213ea2bbe140128be47/img/Peaq.png" title="Peaq" width="80" height="auto" style="max-width: 100%;"></a>   
 <a href="#"><img src="https://github.com/hivefive-space/hivefive-space/raw/2013558e77637700f16708ba73f456f54ce2f5d8/img/Oasys.png" title="Oasys" width="80" height="auto" style="max-width: 100%;"></a>   
-<a href="#"><img src="https://github.com/hivefive-space/hivefive-space/raw/2013558e77637700f16708ba73f456f54ce2f5d8/img/StarkNet.png" title="StarkNet" width="80" height="auto" style="max-width: 100%;"></a>   
-<a href="#"><img src="https://github.com/hivefive-space/hivefive-space/raw/94f3c7804fe17ba9d5447cc22db0a9787ac2186e/img/Subspace.png" title="Subspace" width="80" height="auto" style="max-width: 100%;"></a>   
+<a href="#"><img src="https://github.com/Digiser2/Digiser2/blob/6212d0ffeab35602530da0a02958862ff3abf806/img/StarkNet.png" title="StarkNet" width="80" height="auto" style="max-width: 100%;"></a>   
+<a href="#"><img src="https://github.com/Digiser2/Digiser2/blob/6212d0ffeab35602530da0a02958862ff3abf806/img/Subspace.png" title="Subspace" width="80" height="auto" style="max-width: 100%;"></a>   
 </div> 
+
+<hr>
+<p dir="auto">Contacts: <br>
+telegram: @sshylo <br>
+discord: Serhii Shylo#1868 <br>
+mail: <a href="mailto:digiser2@gmail.com">digiser2@gmail.com</a></p>
+</article>
+  </div>
+</div>
